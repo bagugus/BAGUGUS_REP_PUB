@@ -1,2 +1,1 @@
-# BAGUGUS_REP_PUB
-ヾ(•ω•`)o
+python-3.9.1
